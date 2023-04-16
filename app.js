@@ -251,7 +251,7 @@ document.addEventListener('keydown', function(e){
   e.key === 'ArrowRight' && NextSlide();
 });
 
-
+//Init
 GoToSlide(0);
 createDots();
 activateDots(0);
