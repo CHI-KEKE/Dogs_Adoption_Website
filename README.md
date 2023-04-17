@@ -1,11 +1,9 @@
 # Dogs_Adoption_Website
 
 ## Intro
-This is a website demo I created based on the work of Jonas schmedtmann
-, a software developer and entrepreneur. Jonas's work has been a great source of inspiration for me, it is a banking website originally,
-but I made it as a pets adoption version of it.
+This is a website demo I created based on the work of Jonas schmedtmann banking website by learning the JS and style it as  a pet adoption version.
 <br><br><br>
-The goal of the course from Jonas schmedtmann is to learn : 
+## Main Idea 
 - Nav-links Fading
 - Sticky Nav
 - Reveal of Sections
