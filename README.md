@@ -1,7 +1,7 @@
 # Dogs_Adoption_Website
 
 ## Intro
-This is a website demo I created based on the work of Jonas schmedtmann banking website by learning the JS and style it as  a pet adoption version.
+This is a website demo I created based on the work of Jonas schmedtmann banking website by learning the JS and style it as a pet adoption website with RWD.
 <br><br><br>
 ## Main Idea 
 - Nav-links Fading
@@ -9,8 +9,11 @@ This is a website demo I created based on the work of Jonas schmedtmann banking 
 - Reveal of Sections
 - Lazy-Loading Images
 - Slider
+- RWD for iphone & higher resolution
+
 <br><br><br>
 ![image](https://user-images.githubusercontent.com/113175990/232210458-7abc2967-5810-4d2b-ad91-3232751b4aa8.png)
+![image](https://user-images.githubusercontent.com/113175990/233322909-699922f9-34a0-48fe-9599-f9319459a680.png)
 
 <br><br><br><br>
 
