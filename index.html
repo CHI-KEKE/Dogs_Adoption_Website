@@ -11,39 +11,26 @@
       rel="stylesheet"
     />
     <link rel="stylesheet" href="style.css" />
+    
     <title>Dogs | Unleash the happiness with our canine companions</title>
 
     <script defer src="app.js"></script>
   </head>
   <body>
-    <header class="header">
+    <input type="checkbox" name = "" id="menu_control">
+    <div class="navdesign">
+      <label for="menu_control" class="menu_btn"><span>選單</span></label>
       <nav class="nav">
-        <img
-          src="img/logo.png"
-          alt=""
-          class="nav__logo"
-          id="logo"
-          designer="Jonas"
-          data-version-number="3.0"
-        />
-        <ul class="nav__links">
-          <li class="nav__item">
+        <div class="nav__links">
             <a class="nav__link" href="#section--1">Put your Love into Action</a>
-          </li>
-          <li class="nav__item">
             <a class="nav__link" href="#section--2">Our Impact</a>
-          </li>
-          <li class="nav__item">
             <a class="nav__link" href="#section--3">Events & Campaign</a>
-          </li>
-          <li class="nav__item">
-            <a class="nav__link nav__link--btn btn--show-Popup" href="#"
-              >Donate</a
-            >
-          </li>
-        </ul>
+            <a class="nav__link nav__link--btn btn--show-Popup" href="#">Donate</a>
+        </div>
       </nav>
+    </div>
 
+    <header class="header">
       <div class="header__title">
         <!-- <h1 onclick="alert('HTML alert')"> -->
         <h1>
@@ -92,7 +79,12 @@
             Our dog adopting plan is designed to provide a safe and loving home for dogs in need. We carefully assess each dog's needs and personality to match them with the perfect family. Our process includes a thorough screening of potential adopters, a meet and greet with the dog, and ongoing support and resources for the new family. Our goal is to ensure a successful adoption that benefits both the dog and their new family for years to come.
           </p>
         </div>
-
+        <img
+          src="img/food-lazy.jpg"
+          data-src="img/food.jpg"
+          alt="Plant"
+          class="features__img lazy-img"
+        />
         <div class="features__feature">
           <div class="features__icon">
             <img src="img/dog_2.svg" alt="">
@@ -102,12 +94,7 @@
             At our dog adoption center, we are committed to finding loving homes for dogs in need. Our adoption process is designed to ensure the best possible match between the dog and their new family.
           </p>
         </div>
-        <img
-          src="img/food-lazy.jpg"
-          data-src="img/food.jpg"
-          alt="Plant"
-          class="features__img lazy-img"
-        />
+
 
         <img
           src="img/third-lazy.jpg"
