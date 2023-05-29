@@ -323,7 +323,7 @@ img {
   display: flex;
   flex-direction: column;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   position: relative;
 }
 
@@ -341,8 +341,7 @@ h4 {
   border-radius: 50%;
   height: 250px;
   width: 250px;
-  margin-left: auto;
-  margin-bottom: 5px;
+  margin-left: 5px;
 }
 
 
